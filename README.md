@@ -49,5 +49,5 @@ This project simulates a 2-DoF robotic arm using MATLAB and Simulink, focusing o
 3. Open ForwardKinematics_2Dof.slx in Simulink and Click the Run button in the Simulation Tab.
 4. The model will load.
    ![Output](Output.png) 
-5. Tinker with the parameters as desired.
+5. Tinker with the joint parameters in ForwardKinematics_2Dof.slx as desired.
 
