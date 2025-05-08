@@ -44,8 +44,10 @@ This project simulates a 2-DoF robotic arm using MATLAB and Simulink, focusing o
 1. Clone this repository:
     ```git clone https://github.com/yourusername/2DOF-Robot-Kinematics-Simulation.git```
 2. Open Arm2.M in MATLAB.In the Editor Tab click the **Run** button. (Click **Add to Path** if a window appears).
+   ![Sucessful](successful.png)
    If **>>Arm2** is displayed then it is running sucessfully.
 3. Open ForwardKinematics_2Dof.slx in Simulink and Click the Run button in the Simulation Tab.
 4. The model will load.
+   ![Output](Output.png) 
 5. Tinker with the parameters as desired.
 
